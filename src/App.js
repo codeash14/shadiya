@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <p>
           Name <code>is </code> 
-          <p> an awesome programmer .</p>
+          <p> Happy Birthday Shadiya .</p>
         </p>
         
       </header>
